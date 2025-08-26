@@ -11,32 +11,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'AI & Expert Systems for Development',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Harness the power of AI and build practical expert systems, like BELSA for estate planning and tools for home industry development, to drive efficiency and empower communities.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Cardano Sidechain Blockchain Tech',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Leverage the robust and ethical Cardano sidechain to build transparent, secure and immutable records for real-world assets, educational credentials and community governance.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Ethical Real World Asset Tokenization',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Transform tangible agricultural assets into digital tokens via Sharia-compliant Mudarabah contracts.  Unlock new ethical investment opportunities and foster sustainable economic development.
       </>
     ),
   },

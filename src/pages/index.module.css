@@ -1,23 +1,64 @@
 /**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
+ * CSS file for the homepage (src/pages/index.js).
+ * This file uses CSS Modules.
  */
 
 .heroBanner {
-  padding: 4rem 0;
+  padding: 4rem 0; /* Default Docusaurus hero padding */
   text-align: center;
   position: relative;
   overflow: hidden;
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
-}
-
+/* Styles for buttons container in hero banner */
 .buttons {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 2rem; /* Space below title/subtitle */
+  gap: 20px; /* Space between the two white buttons */
+}
+
+/* General section styling for Mission/Vision and other content blocks */
+.section {
+  padding: var(--ifm-spacing-vertical) 0;
+}
+
+/* Specific styling for the mission/vision content columns */
+.sectionContent {
+  padding: var(--ifm-spacing-vertical) var(--ifm-spacing-horizontal);
+}
+
+/* Added for spacing above Mission/Vision section */
+.missionVisionTopPadding {
+  margin-top: 40px; /* Adjust this value (e.g., 20px, 60px) to get the desired spacing */
+}
+
+/* Styles for the "Join the HARVEST Ecosystem" call-to-action section at the bottom */
+.callToAction {
+  text-align: center; /* Center the text inside this section */
+  padding: 4rem 0; /* Default Docusaurus hero padding, can adjust */
+  background-color: var(--ifm-color-secondary-contrast-background); /* A slightly darker or different background */
+  color: black(--ifm-font-color-base-inverse); /* Text color for contrast */
+}
+
+/* Styling for the "Join the HARVEST Ecosystem" heading itself */
+.callToAction .hero__title {
+  font-size: 2rem; /* Adjusted size for the "Join the HARVEST Ecosystem" heading */
+}
+
+/* Responsive adjustments for smaller screens */
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem 0;
+  }
+
+  .buttons {
+    flex-direction: column; /* Stack buttons vertically on small screens */
+    gap: 10px; /* Smaller gap when stacked */
+  }
+
+  .callToAction .hero__title {
+    font-size: 1.8rem; /* Make it even smaller on mobile */
+  }
 }

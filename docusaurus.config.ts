@@ -1,40 +1,20 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
-import type * as Preset from '@docusaurus/preset-classic';
-
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
+import type * as Plugin from '@docusaurus/plugin-content-docs';
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
-
-  // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
-  future: {
-    v4: true, // Improve compatibility with the upcoming Docusaurus v4
-  },
-
-  // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  title: 'HARVEST Blockchain',
+  tagline: 'Cultivating Ethical Blockchain Innovation from Africa',
+  url: 'https://gynode.github.io',
+  baseUrl: '/HARVEST-Docusaurus-Site/', // Corrected baseUrl for your GitHub Pages repo
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+  favicon: 'img/harvest_favicon.png', // Or .ico or .svg, based on your file
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
-  },
+  organizationName: 'Gynode', // Usually your GitHub org/user name.
+  projectName: 'HARVEST-Docusaurus-Site', // Usually your repo name.
 
   presets: [
     [
@@ -45,53 +25,57 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+            'https://github.com/Gynode/HARVEST-Docusaurus-Site/tree/main/', // Link to your repo's main branch
+        } satisfies Plugin.Options,
         blog: {
           showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
+            'https://github.com/Gynode/HARVEST-Docusaurus-Site/tree/main/', // Link to your repo's main branch
         },
         theme: {
           customCss: './src/css/custom.css',
         },
-      } satisfies Preset.Options,
+      } as Plugin.Options,
     ],
   ],
 
   themeConfig: {
+    // Place externalLinkIcon directly here to disable globally
+    externalLinkIcon: false, // CORRECT PLACEMENT
+
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/docusaurus-social-card.jpg', // You can change this later to a HARVEST social card
     navbar: {
-      title: 'My Site',
+      title: 'HARVEST Website',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'HARVEST Blockchain Logo',
+        src: 'img/logo.svg', // Assumes you've placed your logo here
       },
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'harvestSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Whitepaper',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        // This is the commented-out GitHub link:
+        /*
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/Gynode/HARVEST-Docusaurus-Site',
           label: 'GitHub',
           position: 'right',
         },
+        */
       ],
+      // externalLinkIcon: false, // NOT HERE (if placed globally above)
+    },
+    docs: { // This 'docs' object inside themeConfig is for sidebar hideable, etc., NOT for externalLinkIcon
+      sidebar: {
+        hideable: true,
+      },
+      // externalLinkIcon: false, // NOT HERE
     },
     footer: {
       style: 'dark',
@@ -100,49 +84,50 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Whitepaper',
+              to: '/docs/whitepaper/introduction',
+            },
+            {
+              label: 'Guides',
+              to: '/docs/HARVEST_User_Guide',
             },
           ],
         },
         {
           title: 'Community',
           items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
-            },
+            // You can add links to your community channels here
+             {
+               label: 'Discord',
+               href: 'https://https://discord.com/login',
+             },
+             {
+               label: 'Twitter',
+               href: 'https://x.com/i/flow/login?lang=en',
+             },
           ],
         },
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
+            // {
+            //   label: 'Blog',
+            //   to: '/blog',
+            // },
+             {
+               label: 'GitHub',
+               href: 'https://github.com/Gynode/HARVEST-Docusaurus-Site', // You can uncomment this if you want it in the footer
+             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Advanced Light Systems (ALSYS).  Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
-  } satisfies Preset.ThemeConfig,
+  } satisfies Plugin.ThemeConfig,
 };
 
 export default config;
