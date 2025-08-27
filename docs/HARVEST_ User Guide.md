@@ -2,7 +2,7 @@
 
 **Version:** 2.0
 **Date:** August 24, 2025
-**Author:** Manus AI
+**Author:** M. A. Gydien assisted by AI
 **Project:** HARVEST Blockchain User Documentation
 
 ---
