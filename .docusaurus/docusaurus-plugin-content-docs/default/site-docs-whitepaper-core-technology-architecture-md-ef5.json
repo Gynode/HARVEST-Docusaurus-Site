@@ -1,0 +1,28 @@
+{
+  "id": "whitepaper/core-technology-architecture",
+  "title": "Core Technology",
+  "description": "HARVEST Sidechain Development:* A specialized sidechain built on Cardano.",
+  "source": "@site/docs/whitepaper/core-technology-architecture.md",
+  "sourceDirName": "whitepaper",
+  "slug": "/whitepaper/core-technology-architecture",
+  "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/core-technology-architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Gynode/HARVEST-Docusaurus-Site/tree/main/docs/whitepaper/core-technology-architecture.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Core Technology"
+  },
+  "sidebar": "harvestSidebar",
+  "previous": {
+    "title": "Vision & Mission",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/vision-mission"
+  },
+  "next": {
+    "title": "Tokenomics",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/tokenomics"
+  }
+}

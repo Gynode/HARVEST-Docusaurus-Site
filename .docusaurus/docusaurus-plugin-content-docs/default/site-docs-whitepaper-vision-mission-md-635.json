@@ -1,0 +1,28 @@
+{
+  "id": "whitepaper/vision-mission",
+  "title": "Vision & Mission",
+  "description": "HARVEST's mission is to bridge the gap between cutting-edge blockchain technology and tangible real-world impact. Its vision is to build an ethical Cardano sidechain ecosystem.",
+  "source": "@site/docs/whitepaper/vision-mission.md",
+  "sourceDirName": "whitepaper",
+  "slug": "/whitepaper/vision-mission",
+  "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/vision-mission",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Gynode/HARVEST-Docusaurus-Site/tree/main/docs/whitepaper/vision-mission.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Vision & Mission"
+  },
+  "sidebar": "harvestSidebar",
+  "previous": {
+    "title": "Abstract",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/abstract"
+  },
+  "next": {
+    "title": "Core Technology",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/core-technology-architecture"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "whitepaper/ecosystem-community",
+  "title": "Ecosystem & Community",
+  "description": "HARVEST Online College:* A robust online learning platform specializing in AI and Blockchain courses, including a specialized corporate track.   The college aims to initially launch with 3 Beginner, Intermediate and Advanced courses each for AI and Blockchain.   Completed AI and Blockchain Course Content is ready for immediate deployment on the online college platform, validated through existing one-on-one training.",
+  "source": "@site/docs/whitepaper/ecosystem-community.md",
+  "sourceDirName": "whitepaper",
+  "slug": "/whitepaper/ecosystem-community",
+  "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/ecosystem-community",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Gynode/HARVEST-Docusaurus-Site/tree/main/docs/whitepaper/ecosystem-community.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "Ecosystem & Community"
+  },
+  "sidebar": "harvestSidebar",
+  "previous": {
+    "title": "Use Cases & Applications",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/use-cases-applications"
+  },
+  "next": {
+    "title": "Roadmap (6-12 Months)",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/roadmap"
+  }
+}

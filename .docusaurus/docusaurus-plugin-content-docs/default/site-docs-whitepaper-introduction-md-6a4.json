@@ -1,0 +1,24 @@
+{
+  "id": "whitepaper/introduction",
+  "title": "Introduction",
+  "description": "While blockchain technology holds immense promise for decentralization and efficiency, its adoption, particularly in emerging markets, often faces barriers related to:",
+  "source": "@site/docs/whitepaper/introduction.md",
+  "sourceDirName": "whitepaper",
+  "slug": "/whitepaper/introduction",
+  "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Gynode/HARVEST-Docusaurus-Site/tree/main/docs/whitepaper/introduction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Introduction"
+  },
+  "sidebar": "harvestSidebar",
+  "next": {
+    "title": "Abstract",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/abstract"
+  }
+}

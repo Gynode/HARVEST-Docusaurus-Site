@@ -1,0 +1,28 @@
+{
+  "id": "HARVEST_User_Guide",
+  "title": "User Guide",
+  "description": "Version: 1.0",
+  "source": "@site/docs/HARVEST_User_Guide.md",
+  "sourceDirName": ".",
+  "slug": "/HARVEST_User_Guide",
+  "permalink": "/HARVEST-Docusaurus-Site/docs/HARVEST_User_Guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Gynode/HARVEST-Docusaurus-Site/tree/main/docs/HARVEST_User_Guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "User Guide"
+  },
+  "sidebar": "harvestSidebar",
+  "previous": {
+    "title": "Conclusion",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/conclusion"
+  },
+  "next": {
+    "title": "Blockchain Deployment and Maintenance Guide",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/HARVEST_Deployment_Guide"
+  }
+}

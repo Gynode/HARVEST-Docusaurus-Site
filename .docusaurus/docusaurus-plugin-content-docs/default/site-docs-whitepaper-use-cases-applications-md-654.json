@@ -1,0 +1,28 @@
+{
+  "id": "whitepaper/use-cases-applications",
+  "title": "Use Cases & Applications",
+  "description": "RWA Tokenization:* Ethical and decentralized financial models for tangible assets via the farm pilot, acquired through a Sharia-compliant Mudarabah contract. Future plans for fractionalized RWA ownership/profit-sharing for broader community participation.",
+  "source": "@site/docs/whitepaper/use-cases-applications.md",
+  "sourceDirName": "whitepaper",
+  "slug": "/whitepaper/use-cases-applications",
+  "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/use-cases-applications",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Gynode/HARVEST-Docusaurus-Site/tree/main/docs/whitepaper/use-cases-applications.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Use Cases & Applications"
+  },
+  "sidebar": "harvestSidebar",
+  "previous": {
+    "title": "Tokenomics",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/tokenomics"
+  },
+  "next": {
+    "title": "Ecosystem & Community",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/ecosystem-community"
+  }
+}

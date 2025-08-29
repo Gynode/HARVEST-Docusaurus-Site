@@ -1,0 +1,28 @@
+{
+  "id": "whitepaper/tokenomics",
+  "title": "Tokenomics",
+  "description": "Native Asset:* HARVEST Coin is described as a Cardano-native asset.",
+  "source": "@site/docs/whitepaper/tokenomics.md",
+  "sourceDirName": "whitepaper",
+  "slug": "/whitepaper/tokenomics",
+  "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/tokenomics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Gynode/HARVEST-Docusaurus-Site/tree/main/docs/whitepaper/tokenomics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Tokenomics"
+  },
+  "sidebar": "harvestSidebar",
+  "previous": {
+    "title": "Core Technology",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/core-technology-architecture"
+  },
+  "next": {
+    "title": "Use Cases & Applications",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/use-cases-applications"
+  }
+}

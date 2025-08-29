@@ -1,0 +1,28 @@
+{
+  "id": "whitepaper/abstract",
+  "title": "Abstract",
+  "description": "Project Name: HARVEST - Cultivating Ethical Blockchain Innovation from Africa.",
+  "source": "@site/docs/whitepaper/abstract.md",
+  "sourceDirName": "whitepaper",
+  "slug": "/whitepaper/abstract",
+  "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/abstract",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Gynode/HARVEST-Docusaurus-Site/tree/main/docs/whitepaper/abstract.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Abstract"
+  },
+  "sidebar": "harvestSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/introduction"
+  },
+  "next": {
+    "title": "Vision & Mission",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/vision-mission"
+  }
+}

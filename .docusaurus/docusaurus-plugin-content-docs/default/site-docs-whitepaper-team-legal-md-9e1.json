@@ -1,0 +1,28 @@
+{
+  "id": "whitepaper/team-legal",
+  "title": "Team & Background and Legal & Regulatory Considerations",
+  "description": "Team",
+  "source": "@site/docs/whitepaper/team-legal.md",
+  "sourceDirName": "whitepaper",
+  "slug": "/whitepaper/team-legal",
+  "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/team-legal",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Gynode/HARVEST-Docusaurus-Site/tree/main/docs/whitepaper/team-legal.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "title": "Team & Background and Legal & Regulatory Considerations"
+  },
+  "sidebar": "harvestSidebar",
+  "previous": {
+    "title": "Roadmap (6-12 Months)",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/roadmap"
+  },
+  "next": {
+    "title": "Conclusion",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/conclusion"
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "237": [
+      237
+    ],
+    "650": [
+      61,
+      401,
+      869,
+      650
+    ],
+    "17896441": [
+      650,
+      869,
+      401
+    ],
+    "65428067": [
+      967
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "1a024197": [
+      706
+    ],
+    "1df93b7f": [
+      869,
+      583
+    ],
+    "1f391b9e": [
+      650,
+      869,
+      61
+    ],
+    "23b77857": [
+      794
+    ],
+    "393be207": [
+      134
+    ],
+    "3f26259e": [
+      913
+    ],
+    "3ff7dcf5": [
+      313
+    ],
+    "5e95c892": [
+      647
+    ],
+    "6357890d": [
+      83
+    ],
+    "64de7cfd": [
+      44
+    ],
+    "6a44717c": [
+      386
+    ],
+    "7f1c2a5e": [
+      317
+    ],
+    "7ff93983": [
+      236
+    ],
+    "90f68714": [
+      712
+    ],
+    "9e15f937": [
+      970
+    ],
+    "a046c4db": [
+      1
+    ],
+    "a7456010": [
+      235
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "ef59028d": [
+      82
+    ],
+    "styles": [
+      48,
+      61,
+      354,
+      401,
+      583,
+      650,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "1": {
+      "js": [
+        {
+          "file": "assets/js/a046c4db.22a1750f.js",
+          "hash": "47378aaf143e6b16",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/a046c4db.22a1750f.js"
+        }
+      ]
+    },
+    "44": {
+      "js": [
+        {
+          "file": "assets/js/64de7cfd.502c31a3.js",
+          "hash": "76838e7f98d2ab7d",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/64de7cfd.502c31a3.js"
+        }
+      ]
+    },
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.d5444b0f.js",
+          "hash": "13523360afd47f1b",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/a94703ab.d5444b0f.js"
+        }
+      ]
+    },
+    "61": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.27041f4d.js",
+          "hash": "dd198af3bfacda3a",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/1f391b9e.27041f4d.js"
+        }
+      ]
+    },
+    "82": {
+      "js": [
+        {
+          "file": "assets/js/ef59028d.d47ea743.js",
+          "hash": "472b8bdcf7d44697",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/ef59028d.d47ea743.js"
+        }
+      ]
+    },
+    "83": {
+      "js": [
+        {
+          "file": "assets/js/6357890d.6f2b9070.js",
+          "hash": "e314442a20c5281c",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/6357890d.6f2b9070.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.286c54dc.js",
+          "hash": "4a04e9b4028b8676",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/a7bd4aaa.286c54dc.js"
+        }
+      ]
+    },
+    "134": {
+      "js": [
+        {
+          "file": "assets/js/393be207.14f302ad.js",
+          "hash": "f8309e24a240bba1",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/393be207.14f302ad.js"
+        }
+      ]
+    },
+    "235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.bc6df0ef.js",
+          "hash": "e4269483d5c35253",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/a7456010.bc6df0ef.js"
+        }
+      ]
+    },
+    "236": {
+      "js": [
+        {
+          "file": "assets/js/7ff93983.cf17d487.js",
+          "hash": "2f9665bd21334d8d",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/7ff93983.cf17d487.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.ab47cf37.js",
+          "hash": "386b55c50f5872bb",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/237.ab47cf37.js"
+        }
+      ]
+    },
+    "313": {
+      "js": [
+        {
+          "file": "assets/js/3ff7dcf5.bfa8b0f7.js",
+          "hash": "f9d8ce15f62170ee",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/3ff7dcf5.bfa8b0f7.js"
+        }
+      ]
+    },
+    "317": {
+      "js": [
+        {
+          "file": "assets/js/7f1c2a5e.b4b4d649.js",
+          "hash": "aa266b3184801e5c",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/7f1c2a5e.b4b4d649.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.a7376357.js",
+          "hash": "2e90f4104430d6f9",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/runtime~main.a7376357.js"
+        }
+      ]
+    },
+    "386": {
+      "js": [
+        {
+          "file": "assets/js/6a44717c.0c091714.js",
+          "hash": "67686b786101fa8b",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/6a44717c.0c091714.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.5d3b39be.js",
+          "hash": "c8c6d2c04fedadc1",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/17896441.5d3b39be.js"
+        }
+      ]
+    },
+    "583": {
+      "js": [
+        {
+          "file": "assets/js/1df93b7f.fc495eff.js",
+          "hash": "ee24ecfa7bb6ed3d",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/1df93b7f.fc495eff.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.947b6eef.js",
+          "hash": "8cbf315e4067863a",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/5e95c892.947b6eef.js"
+        }
+      ]
+    },
+    "650": {
+      "js": [
+        {
+          "file": "assets/js/650.3fc58967.js",
+          "hash": "d21d13d52708364b",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/650.3fc58967.js"
+        }
+      ]
+    },
+    "706": {
+      "js": [
+        {
+          "file": "assets/js/1a024197.3e0bdf73.js",
+          "hash": "d68abe476396fef3",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/1a024197.3e0bdf73.js"
+        }
+      ]
+    },
+    "712": {
+      "js": [
+        {
+          "file": "assets/js/90f68714.e37aa774.js",
+          "hash": "3bd6a415a0f749fb",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/90f68714.e37aa774.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.680f1299.js",
+          "hash": "95f63bed202f4dc4",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/aba21aa0.680f1299.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.2dcb9ffd.js",
+          "hash": "14fb1f16c2a5c45e",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/main.2dcb9ffd.js"
+        }
+      ]
+    },
+    "794": {
+      "js": [
+        {
+          "file": "assets/js/23b77857.27a9a983.js",
+          "hash": "c1b1a7711b79821e",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/23b77857.27a9a983.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.cda3c0a8.css",
+          "hash": "679c259ffa4077d3",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/css/styles.cda3c0a8.css"
+        }
+      ]
+    },
+    "913": {
+      "js": [
+        {
+          "file": "assets/js/3f26259e.eb654334.js",
+          "hash": "b4fef3a6c3242894",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/3f26259e.eb654334.js"
+        }
+      ]
+    },
+    "967": {
+      "js": [
+        {
+          "file": "assets/js/65428067.72d79d12.js",
+          "hash": "2397f6cb4af59e73",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/65428067.72d79d12.js"
+        }
+      ]
+    },
+    "970": {
+      "js": [
+        {
+          "file": "assets/js/9e15f937.661f49a2.js",
+          "hash": "97e0c85ea7647b84",
+          "publicPath": "/HARVEST-Docusaurus-Site/assets/js/9e15f937.661f49a2.js"
+        }
+      ]
+    }
+  }
+}

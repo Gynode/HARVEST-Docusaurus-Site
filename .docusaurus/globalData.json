@@ -1,0 +1,93 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/HARVEST-Docusaurus-Site/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/HARVEST-Docusaurus-Site/docs",
+          "mainDocId": "whitepaper/introduction",
+          "docs": [
+            {
+              "id": "HARVEST_Deployment_Guide",
+              "path": "/HARVEST-Docusaurus-Site/docs/HARVEST_Deployment_Guide",
+              "sidebar": "harvestSidebar"
+            },
+            {
+              "id": "HARVEST_Technical_Documentation",
+              "path": "/HARVEST-Docusaurus-Site/docs/HARVEST_Technical_Documentation",
+              "sidebar": "harvestSidebar"
+            },
+            {
+              "id": "HARVEST_User_Guide",
+              "path": "/HARVEST-Docusaurus-Site/docs/HARVEST_User_Guide",
+              "sidebar": "harvestSidebar"
+            },
+            {
+              "id": "whitepaper/abstract",
+              "path": "/HARVEST-Docusaurus-Site/docs/whitepaper/abstract",
+              "sidebar": "harvestSidebar"
+            },
+            {
+              "id": "whitepaper/conclusion",
+              "path": "/HARVEST-Docusaurus-Site/docs/whitepaper/conclusion",
+              "sidebar": "harvestSidebar"
+            },
+            {
+              "id": "whitepaper/core-technology-architecture",
+              "path": "/HARVEST-Docusaurus-Site/docs/whitepaper/core-technology-architecture",
+              "sidebar": "harvestSidebar"
+            },
+            {
+              "id": "whitepaper/ecosystem-community",
+              "path": "/HARVEST-Docusaurus-Site/docs/whitepaper/ecosystem-community",
+              "sidebar": "harvestSidebar"
+            },
+            {
+              "id": "whitepaper/introduction",
+              "path": "/HARVEST-Docusaurus-Site/docs/whitepaper/introduction",
+              "sidebar": "harvestSidebar"
+            },
+            {
+              "id": "whitepaper/roadmap",
+              "path": "/HARVEST-Docusaurus-Site/docs/whitepaper/roadmap",
+              "sidebar": "harvestSidebar"
+            },
+            {
+              "id": "whitepaper/team-legal",
+              "path": "/HARVEST-Docusaurus-Site/docs/whitepaper/team-legal",
+              "sidebar": "harvestSidebar"
+            },
+            {
+              "id": "whitepaper/tokenomics",
+              "path": "/HARVEST-Docusaurus-Site/docs/whitepaper/tokenomics",
+              "sidebar": "harvestSidebar"
+            },
+            {
+              "id": "whitepaper/use-cases-applications",
+              "path": "/HARVEST-Docusaurus-Site/docs/whitepaper/use-cases-applications",
+              "sidebar": "harvestSidebar"
+            },
+            {
+              "id": "whitepaper/vision-mission",
+              "path": "/HARVEST-Docusaurus-Site/docs/whitepaper/vision-mission",
+              "sidebar": "harvestSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "harvestSidebar": {
+              "link": {
+                "path": "/HARVEST-Docusaurus-Site/docs/whitepaper/introduction",
+                "label": "whitepaper/introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "whitepaper/conclusion",
+  "title": "Conclusion",
+  "description": "HARVEST directly impacts the Cardano ecosystem by:",
+  "source": "@site/docs/whitepaper/conclusion.md",
+  "sourceDirName": "whitepaper",
+  "slug": "/whitepaper/conclusion",
+  "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/conclusion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Gynode/HARVEST-Docusaurus-Site/tree/main/docs/whitepaper/conclusion.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "title": "Conclusion"
+  },
+  "sidebar": "harvestSidebar",
+  "previous": {
+    "title": "Team & Legal Considerations",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/team-legal"
+  },
+  "next": {
+    "title": "User Guide",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/HARVEST_User_Guide"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "whitepaper/roadmap",
+  "title": "Roadmap (6-12 Months)",
+  "description": "Month 1-2: Sidechain Blueprint & RWA Integration Planning*",
+  "source": "@site/docs/whitepaper/roadmap.md",
+  "sourceDirName": "whitepaper",
+  "slug": "/whitepaper/roadmap",
+  "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/roadmap",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Gynode/HARVEST-Docusaurus-Site/tree/main/docs/whitepaper/roadmap.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "title": "Roadmap (6-12 Months)"
+  },
+  "sidebar": "harvestSidebar",
+  "previous": {
+    "title": "Ecosystem & Community",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/ecosystem-community"
+  },
+  "next": {
+    "title": "Team & Legal Considerations",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/whitepaper/team-legal"
+  }
+}

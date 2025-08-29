@@ -1,0 +1,24 @@
+{
+  "id": "HARVEST_Deployment_Guide",
+  "title": "Blockchain Deployment and Maintenance Guide",
+  "description": "Version: 1.0",
+  "source": "@site/docs/HARVEST_Deployment_Guide.md",
+  "sourceDirName": ".",
+  "slug": "/HARVEST_Deployment_Guide",
+  "permalink": "/HARVEST-Docusaurus-Site/docs/HARVEST_Deployment_Guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Gynode/HARVEST-Docusaurus-Site/tree/main/docs/HARVEST_Deployment_Guide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "harvestSidebar",
+  "previous": {
+    "title": "User Guide",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/HARVEST_User_Guide"
+  },
+  "next": {
+    "title": "Comprehensive Technical Documentation",
+    "permalink": "/HARVEST-Docusaurus-Site/docs/HARVEST_Technical_Documentation"
+  }
+}
